@@ -1,1 +1,2 @@
-Mars is a little red planet.
+Mars is a little red planet. 
+Mars has two moons which might be problematic for the wolfman.
