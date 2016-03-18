@@ -1,1 +1,2 @@
 Pluto is a cool planet.
+And it has a moon call Charon.
