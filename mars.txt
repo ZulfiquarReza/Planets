@@ -2,3 +2,4 @@ Mars is a little red planet.
 Mars has two moons which might be problematic for the wolfman.
 It's pretty cold.
 It can be very hot as well.
+Mars is the 4th planet from the sun.
